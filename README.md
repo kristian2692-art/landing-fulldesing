@@ -1,16 +1,20 @@
-# React + Vite
+# FullDesign - Cinematic Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una landing page de alto rendimiento y alta fidelidad diseñada para la marca **FullDesign**. 
+Creada con una estética cinematográfica, "pixel perfect", orientada a la conversión y escalamiento de ventas mediante Meta Ads e Inteligencia Artificial.
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas
+- **React 19**: Construcción de UI por componentes modernos.
+- **Vite**: Herramienta de construcción y entorno rápido.
+- **Tailwind CSS**: Estilización ágil mediante diseño atómico.
+- **GSAP 3**: Animaciones avanzadas y "Smooth Scrolling" en toda la interfaz.
+- **Lucide React**: Sistema de iconos limpios.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Características Principales
+- **Diseño Estricto**: Sistema de colores definido (Deep Blue, Electric Cyan, Neon Magenta, Smoke White).
+- **Textura Cinematic**: Overlay sutil de "noise" basado en SVG Turbulence.
+- **Artefactos de Conversión**: Módulos interactivos (terminales, generador IA, panel de leads).
+- **Animaciones fluidas**: Botones magnéticos con respuesta al desplazamiento.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+*Director: Kristian Rodríguez - Puente Alto, Chile*
